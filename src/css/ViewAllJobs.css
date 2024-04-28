@@ -1,0 +1,25 @@
+.view-jobs{
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .view-all-jobs-link{
+    width: 450px;
+    padding: 20px;
+    font-size: 18px;
+    background-color: black;
+    font-size:16px;
+    transition: 0.5s;
+    cursor:pointer;
+    opacity: 1;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .view-all-jobs-link:hover{
+    opacity: 0.8;
+  }

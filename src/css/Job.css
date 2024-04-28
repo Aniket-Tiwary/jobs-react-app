@@ -1,0 +1,53 @@
+.job{
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    margin: 20px 10px 30px 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 10px;
+    padding: 20px 15px 20px 15px;
+}
+.type{
+    font-size: 18px;
+    color: #4B5563;
+    margin-bottom: 10px;
+}
+
+.position{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.description{
+    margin-bottom: 10px;
+}
+
+.salary{
+    color: #6366F1;
+    border-bottom-width: 2px;
+    border-bottom-color: #F3F4F6;
+    border-bottom-style: solid;
+    padding-bottom: 10px;
+}
+
+.location{
+    margin-top: 10px;
+    color: #C34612;
+}
+
+.read-more{
+    background-color: #6366F1;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    font-size: 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.8s;
+    text-decoration: none;
+}
+
+.read-more:hover{
+    opacity: 0.8;
+}

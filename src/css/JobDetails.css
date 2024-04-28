@@ -1,0 +1,120 @@
+a{
+    margin: 0;
+    padding: 0;
+}
+.nav-job-listing{
+    color: #6366F1;
+    padding-left: 100px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.job-details-container{
+    background-color: #EEF2FF;
+    height: 100%;
+    display: flex;
+}
+
+.job-info{
+    margin-left: 150px;
+    padding-top: 50px;
+}
+
+.job-title{
+    background-color: white;
+    width: 800px;
+    padding: 30px;
+    padding-bottom: 40px;
+    padding-left: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+}
+
+.title-job{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.job-description{
+    margin-top: 20px;
+    background-color: white;
+    padding: 30px;
+    padding-left: 25px;
+    width: 800px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 8px;
+}
+
+.salary{
+    border: none;
+    color: black;
+}
+
+.label{
+    color: #3730A3;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.company-info-actions{
+    margin-right: 100px;
+    padding-top: 50px;
+    width: 500px;
+    margin-left: 20px;
+}
+
+.company-info{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.contact{
+    margin: 10px 0px 10px 0px;
+    background-color: #DFE7FF;
+    padding: 10px 0px 10px 10px;
+    font-weight: 600;
+    color: black;
+}
+
+.job-actions{
+    margin-top: 20px;
+    background-color: white;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.actions-label{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.job-action{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 16px;
+    display: block;
+    margin-bottom:10px
+}
+
+.edit-job{
+    background-color: #6366F1;
+}
+
+.delete-job{
+    background-color: #EF4444;
+}
+

@@ -1,0 +1,7 @@
+.home-card{
+    display: flex;
+    height: 150px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content:space-around;
+}
